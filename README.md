@@ -7,5 +7,6 @@ Second Part gives domain name as output.
 Example:
 
 INPUT : batchujyothsna@gmail.com
-OUTPUT : Your username is batchujyothsna
-         Your domain name is gmail.com
+OUTPUT : 
+Your username is batchujyothsna
+Your domain name is gmail.com
